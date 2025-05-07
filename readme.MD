@@ -1,4 +1,4 @@
-Free sample packs (samples, sound effects, impulse responses and more) from **CASKaudio**!
+##Free sample packs (samples, sound effects, impulse responses and more) from **CASKaudio**!
 
 > Hey there,
 > 
